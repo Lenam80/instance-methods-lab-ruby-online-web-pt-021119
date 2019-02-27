@@ -1,5 +1,5 @@
 class Dog
-  
+
     def method
       bark
     end
@@ -16,4 +16,3 @@ class Dog
     puts "The Dog is Sitting"
   end
 end
-
