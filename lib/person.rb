@@ -6,7 +6,7 @@ def initalize
   puts "Hello World"
 end
 
-def initalize
+def 
   walk
   puts "The Person is Walking"
 end 
