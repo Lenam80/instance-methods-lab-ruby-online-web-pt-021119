@@ -1,18 +1,19 @@
 class Dog
-end
+  
+    def method
+      bark
+    end
 
-  def method
-    bark
+  def bark
+    puts "Woof"
   end
 
-def bark
-  puts "Woof"
+  def methods
+    sit
+  end
+
+  def sit
+    puts "The Dog is Sitting"
+  end
 end
 
-def methods
-  sit
-end
-
-def sit
-  puts "The Dog is Sitting"
-end
