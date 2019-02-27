@@ -1,12 +1,12 @@
 class Person
 end
 
-def initalize
+def methods
   talk
   puts "Hello World"
 end
 
-def method
+def methods
   walk
   puts "The Person is Walking"
 end
