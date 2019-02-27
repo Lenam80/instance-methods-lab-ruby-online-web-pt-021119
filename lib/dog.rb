@@ -15,5 +15,4 @@ end
 
 def sit
   puts "The Dog is Sitting"
-end
-end
+
