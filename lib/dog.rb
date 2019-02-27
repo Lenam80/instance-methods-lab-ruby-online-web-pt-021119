@@ -1,7 +1,7 @@
 class Dog
 end
 
-  def initalize
+  def method
     bark
   end
 
@@ -9,7 +9,7 @@ def bark
   puts "Woof"
 end
 
-def method
+def methods
   sit
 end
 
