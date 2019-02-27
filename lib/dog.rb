@@ -9,7 +9,7 @@ def bark
   puts "Woof"
 end
 
-def 
+def method
   sit
 end
 
