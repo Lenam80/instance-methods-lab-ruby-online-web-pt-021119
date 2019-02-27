@@ -1,12 +1,12 @@
 class Person
-end
 
-def methods
-  talk
-  puts "Hello World"
-end
+  def talk
 
-def methods
-  walk
-  puts "The Person is Walking"
+    puts "Hello World"
+  end
+
+  def walk
+
+    puts "The Person is Walking"
+  end
 end
